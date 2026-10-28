@@ -1,0 +1,1 @@
+"""Paquete app: contiene el código de la API de incidencias (ver app.main)."""
